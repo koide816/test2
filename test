@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html><body>
+<h1>Custom Tabsテスト</h1>
+<a href="mytestapp://success">←アプリ起動！</a><br>
+<a href="mytestapp://user/123">パラメータ付き</a>
+</body></html>
